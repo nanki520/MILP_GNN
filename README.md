@@ -17,7 +17,7 @@ Learning the optimal branching variable in Mixed Integer Linear Programming bran
 
 ## About <a name = "about"></a>
 
-This thesis is a continued exploration and development of ideas from two articles:
+This project is a  exploration and development of ideas from two articles:
 
 Maxime Gasse, Didier Chételat, Nicola Ferroni, Laurent Charlin, Andrea Lodi [Exact Combinatorial Optimization with Graph Convolutional Neural Networks](https://github.com/ds4dm/learn2branch) (2019).
 
@@ -26,8 +26,6 @@ Prateek Gupta, Maxime Gasse, Elias B. Khalil, M. Pawan Kumar, Andrea Lodi, Yoshu
 And implements variations of these ideas in the freamework _Ecole_, which is found in the article:
 
 Antoine Prouvost, Justin Dumouchelle, L. Scavuzzo, Maxime Gasse, D. Chételat, A. Lodi: [Ecole: A Gym-like Library for Machine Learning in Combinatorial Optimization Solvers](https://www.semanticscholar.org/paper/Ecole%3A-A-Gym-like-Library-for-Machine-Learning-in-Prouvost-Dumouchelle/e5f3f6d89be2f29eda70133fd83913229650d008)
-
-This is the code for my master's thesis for a Master of Science in Engineering Cybernetics at the Norwegian University of Science and Technology. The title of the project is "Ablating a Graph Neural Network for Branching in Mixed-Integer Linear Programming". Feel free to contact me about any and all details of this project. 
 
 ## Installation
 
@@ -74,11 +72,3 @@ Or, you can run all experiments with one bash script:
 ```bash
 ./scripts/run.sh
 ```
-
-## Citation
-Please cite the three original papers as well as my thesis if you use this code in your work, 
-and feel free to contact @Sandbergo about anything related to the project.
-
-
-## Questions / Bugs
-Please feel free to submit a Github issue if you have any questions or find any bugs.
